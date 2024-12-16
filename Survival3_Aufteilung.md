@@ -26,7 +26,7 @@
 - Tobi (Muschascha) bauen bissel alles anschauen mittel
 - Yannick
 
-### Teilnehmer: 10
+### Teilnehmer: 11
 - Jana-Lea (Zausel167) Bauen krasser Neuling
 - Katha (Katha01) Bauen/leicht grinden Neuling
 - Philip (philipooss) Redstone große-Erfahren, gut in allem
