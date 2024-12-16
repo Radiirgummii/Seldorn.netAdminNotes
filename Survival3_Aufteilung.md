@@ -17,6 +17,9 @@
 - Vale
 - Leon (Blockmaster2706) Redstone, grinder
 - Isaac (FunkyFemboy) Bedrock, aktiv
+
+
+
 ## Wüste:
 ### Team:
 - Tim
@@ -34,3 +37,5 @@
 - Katha () will Bauen / Roleplay
 - Flo (Floderkek) alles bissle
 - Matthias (LazyHorseman) alles bissle, mittel aktiv
+- Lasse (Avatarghoul) alles bissle
+
