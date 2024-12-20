@@ -4,7 +4,7 @@
 - Emilio
 - Paul
 
-### Teilnehmer: 12
+### Teilnehmer: 13
 - Josh (Sprakh) bauen/erkunden mittel
 - Moritz (Der_Raabe) redstone mittel
 - Nik (VIXSaintXIV, SaintXIV) bauen mittel
@@ -17,6 +17,9 @@
 - Vale
 - Leon (Blockmaster2706) Redstone, grinder
 - Isaac (FunkyFemboy) Bedrock, aktiv
+- Eric (DarthFishiate)
+- Leo (Pinguinii)
+- 
 
 
 
